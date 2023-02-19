@@ -8,5 +8,3 @@ server=app.server
 app.layout = html.Div(children =[
     html.H1('Hellow Dash')
     ])
-if __name__=='main':
-    app.run_server()
