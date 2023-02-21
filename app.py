@@ -27,4 +27,4 @@ def display_color(color):
     return fig
 
 
-app.run_server(debug=True)
+#app.run_server(debug=True)
